@@ -1,0 +1,70 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"name": "Paris Metro Line 2 - Precise Track",
+"line": "2",
+"color": "#004D99",
+"terminus_west": "Porte Dauphine",
+"terminus_east": "Nation"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+[2.277083018415725, 48.87146657813589],
+[2.285335094686169, 48.86979855646069],
+[2.295801222351869, 48.87481054112289],
+[2.298310373761529, 48.87797270141956],
+[2.30407039121876, 48.87932978868225],
+[2.308773835955807, 48.88032518647405],
+[2.314721004746195, 48.881094427166275],
+[2.321801731063168, 48.88233342370702],
+[2.32853013989038, 48.88399982489613],
+[2.333379672422159, 48.88355629016869],
+[2.338233468504618, 48.88222543392857],
+[2.344667073748300, 48.882972767827276],
+[2.350612999325322, 48.88380394240113],
+[2.360399500808732, 48.8843996770653],
+[2.365821546282089, 48.88428415025653],
+[2.370259056755391, 48.88162402899078],
+[2.370776, 48.877621],
+[2.37673072170184, 48.87228310892801],
+[2.380542586000037, 48.8690911620257],
+[2.383599109573657, 48.866446806067],
+[2.387835956453658, 48.86218374787729],
+[2.390860952323608, 48.85806226176241],
+[2.394675654792046, 48.85622809125615],
+[2.397997314830746, 48.85190531895693],
+[2.395062305425881, 48.848474285974376]
+]
+}
+},
+{ "type": "Feature", "properties": { "name": "Porte Dauphine" }, "geometry": { "type": "Point", "coordinates": [2.277083018415725, 48.87146657813589] } },
+{ "type": "Feature", "properties": { "name": "Victor Hugo" }, "geometry": { "type": "Point", "coordinates": [2.285335094686169, 48.86979855646069] } },
+{ "type": "Feature", "properties": { "name": "Charles De Gaulle-Étoile" }, "geometry": { "type": "Point", "coordinates": [2.295801222351869, 48.87481054112289] } },
+{ "type": "Feature", "properties": { "name": "Ternes" }, "geometry": { "type": "Point", "coordinates": [2.298310373761529, 48.87797270141956] } },
+{ "type": "Feature", "properties": { "name": "Courcelles" }, "geometry": { "type": "Point", "coordinates": [2.30407039121876, 48.87932978868225] } },
+{ "type": "Feature", "properties": { "name": "Monceau" }, "geometry": { "type": "Point", "coordinates": [2.308773835955807, 48.88032518647405] } },
+{ "type": "Feature", "properties": { "name": "Villiers" }, "geometry": { "type": "Point", "coordinates": [2.314721004746195, 48.881094427166275] } },
+{ "type": "Feature", "properties": { "name": "Rome" }, "geometry": { "type": "Point", "coordinates": [2.321801731063168, 48.88233342370702] } },
+{ "type": "Feature", "properties": { "name": "Place de Clichy" }, "geometry": { "type": "Point", "coordinates": [2.32853013989038, 48.88399982489613] } },
+{ "type": "Feature", "properties": { "name": "Blanche" }, "geometry": { "type": "Point", "coordinates": [2.333379672422159, 48.88355629016869] } },
+{ "type": "Feature", "properties": { "name": "Pigalle" }, "geometry": { "type": "Point", "coordinates": [2.338233468504618, 48.88222543392857] } },
+{ "type": "Feature", "properties": { "name": "Anvers" }, "geometry": { "type": "Point", "coordinates": [2.344667073748300, 48.882972767827276] } },
+{ "type": "Feature", "properties": { "name": "Barbès-Rochechouart" }, "geometry": { "type": "Point", "coordinates": [2.350612999325322, 48.8830394240113] } },
+{ "type": "Feature", "properties": { "name": "La Chapelle" }, "geometry": { "type": "Point", "coordinates": [2.360399500808732, 48.8843996770653] } },
+{ "type": "Feature", "properties": { "name": "Stalingrad" }, "geometry": { "type": "Point", "coordinates": [2.365821546282089, 48.88428415025653] } },
+{ "type": "Feature", "properties": { "name": "Jaurès" }, "geometry": { "type": "Point", "coordinates": [2.370259056755391, 48.88162402899078] } },
+{ "type": "Feature", "properties": { "name": "Colonel Fabien" }, "geometry": { "type": "Point", "coordinates": [2.370776, 48.877621] } },
+{ "type": "Feature", "properties": { "name": "Belleville" }, "geometry": { "type": "Point", "coordinates": [2.37673072170184, 48.87228310892801] } },
+{ "type": "Feature", "properties": { "name": "Couronnes" }, "geometry": { "type": "Point", "coordinates": [2.380542586000037, 48.8690911620257] } },
+{ "type": "Feature", "properties": { "name": "Ménilmontant" }, "geometry": { "type": "Point", "coordinates": [2.383599109573657, 48.866446806067] } },
+{ "type": "Feature", "properties": { "name": "Père Lachaise" }, "geometry": { "type": "Point", "coordinates": [2.387835956453658, 48.86218374787729] } },
+{ "type": "Feature", "properties": { "name": "Philippe Auguste" }, "geometry": { "type": "Point", "coordinates": [2.390860952323608, 48.85806226176241] } },
+{ "type": "Feature", "properties": { "name": "Alexandre Dumas" }, "geometry": { "type": "Point", "coordinates": [2.394675654792046, 48.85622809125615] } },
+{ "type": "Feature", "properties": { "name": "Avron" }, "geometry": { "type": "Point", "coordinates": [2.397997314830746, 48.85190531895693] } },
+{ "type": "Feature", "properties": { "name": "Nation" }, "geometry": { "type": "Point", "coordinates": [2.395062305425881, 48.848474285974376] } }
+]
+}
