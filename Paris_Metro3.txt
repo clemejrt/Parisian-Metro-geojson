@@ -1,0 +1,70 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"name": "Paris Metro Line 3 - Precise Track",
+"line": "3",
+"color": "#9F9D23",
+"terminus_west": "Pont de Levallois",
+"terminus_east": "Gallieni"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+[2.280413812210846, 48.8971540959649],
+[2.285009501382414, 48.892082785966664],
+[2.288083633048504, 48.88870601977514],
+[2.293529966337255, 48.886006151507],
+[2.297724346480178, 48.884896255150515],
+[2.304674440528396, 48.88380920123339],
+[2.309052264550479, 48.88289191745414],
+[2.314721004746195, 48.881094427166275],
+[2.322265213130597, 48.878770367587585],
+[2.324380555428912, 48.87515128791023],
+[2.327543081726971, 48.873513389595466],
+[2.331493987087091, 48.87130850300574],
+[2.336232756868916, 48.869637996887164],
+[2.341376051143573, 48.86865415183625],
+[2.346552336353212, 48.86751302499845],
+[2.351358915532991, 48.8664963437902],
+[2.356736756794993, 48.86558647849898],
+[2.360803503275269, 48.866514461743],
+[2.364247995104706, 48.86702678847436],
+[2.374581969996413, 48.86525378605433],
+[2.379741893177554, 48.864285758645295],
+[2.385882449326147, 48.86312321464208],
+[2.396912847086626, 48.86497810787772],
+[2.408031037075815, 48.86460037337562],
+[2.416697272847641, 48.8653353181603]
+]
+}
+},
+{ "type": "Feature", "properties": { "name": "Pont de Levallois" }, "geometry": { "type": "Point", "coordinates": [2.280413812210846, 48.8971540959649] } },
+{ "type": "Feature", "properties": { "name": "Anatole France" }, "geometry": { "type": "Point", "coordinates": [2.285009501382414, 48.892082785966664] } },
+{ "type": "Feature", "properties": { "name": "Louise Michel" }, "geometry": { "type": "Point", "coordinates": [2.288083633048504, 48.88870601977514] } },
+{ "type": "Feature", "properties": { "name": "Porte de Champerret" }, "geometry": { "type": "Point", "coordinates": [2.293529966337255, 48.886006151507] } },
+{ "type": "Feature", "properties": { "name": "Pereire-Levallois" }, "geometry": { "type": "Point", "coordinates": [2.297724346480178, 48.884896255150515] } },
+{ "type": "Feature", "properties": { "name": "Wagram" }, "geometry": { "type": "Point", "coordinates": [2.304674440528396, 48.88380920123339] } },
+{ "type": "Feature", "properties": { "name": "Malesherbes" }, "geometry": { "type": "Point", "coordinates": [2.309052264550479, 48.88289191745414] } },
+{ "type": "Feature", "properties": { "name": "Villiers" }, "geometry": { "type": "Point", "coordinates": [2.314721004746195, 48.881094427166275] } },
+{ "type": "Feature", "properties": { "name": "Europe" }, "geometry": { "type": "Point", "coordinates": [2.322265213130597, 48.878770367587585] } },
+{ "type": "Feature", "properties": { "name": "Saint-Lazare" }, "geometry": { "type": "Point", "coordinates": [2.324380555428912, 48.87515128791023] } },
+{ "type": "Feature", "properties": { "name": "Havre-Caumartin" }, "geometry": { "type": "Point", "coordinates": [2.327543081726971, 48.873513389595466] } },
+{ "type": "Feature", "properties": { "name": "Opéra" }, "geometry": { "type": "Point", "coordinates": [2.331493987087091, 48.87130850300574] } },
+{ "type": "Feature", "properties": { "name": "Quatre Septembre" }, "geometry": { "type": "Point", "coordinates": [2.336232756868916, 48.869637996887164] } },
+{ "type": "Feature", "properties": { "name": "Bourse" }, "geometry": { "type": "Point", "coordinates": [2.341376051143573, 48.86865415183625] } },
+{ "type": "Feature", "properties": { "name": "Sentier" }, "geometry": { "type": "Point", "coordinates": [2.346552336353212, 48.86751302499845] } },
+{ "type": "Feature", "properties": { "name": "Réaumur Sébastopol" }, "geometry": { "type": "Point", "coordinates": [2.351358915532991, 48.8664963437902] } },
+{ "type": "Feature", "properties": { "name": "Arts et Métiers" }, "geometry": { "type": "Point", "coordinates": [2.356736756794993, 48.86558647849898] } },
+{ "type": "Feature", "properties": { "name": "Temple" }, "geometry": { "type": "Point", "coordinates": [2.360803503275269, 48.866514461743] } },
+{ "type": "Feature", "properties": { "name": "République" }, "geometry": { "type": "Point", "coordinates": [2.364247995104706, 48.86702678847436] } },
+{ "type": "Feature", "properties": { "name": "Parmentier" }, "geometry": { "type": "Point", "coordinates": [2.374581969996413, 48.86525378605433] } },
+{ "type": "Feature", "properties": { "name": "Rue Saint-Maur" }, "geometry": { "type": "Point", "coordinates": [2.379741893177554, 48.864285758645295] } },
+{ "type": "Feature", "properties": { "name": "Père Lachaise" }, "geometry": { "type": "Point", "coordinates": [2.385882449326147, 48.86312321464208] } },
+{ "type": "Feature", "properties": { "name": "Gambetta" }, "geometry": { "type": "Point", "coordinates": [2.396912847086626, 48.86497810787772] } },
+{ "type": "Feature", "properties": { "name": "Porte de Bagnolet" }, "geometry": { "type": "Point", "coordinates": [2.408031037075815, 48.86460037337562] } },
+{ "type": "Feature", "properties": { "name": "Gallieni" }, "geometry": { "type": "Point", "coordinates": [2.416697272847641, 48.8653353181603] } }
+]
+}
