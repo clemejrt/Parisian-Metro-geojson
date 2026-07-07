@@ -1,0 +1,119 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"name": "Paris Metro Line 7 - Main Trunk",
+"line": "7",
+"color": "#F59FB7",
+"section": "Main Trunk"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+[2.410598616469426, 48.92078596906289],
+[2.404409088781864, 48.91494975727623],
+[2.392221222535117, 48.90378388105197],
+[2.385508387668673, 48.89738989158187],
+[2.373456887852549, 48.88796756174982],
+[2.369580855577830, 48.88479825198408],
+[2.364993472400181, 48.88094656356074],
+[2.357633204680054, 48.88019548713589],
+[2.348775557476847, 48.87710018579865],
+[2.344572482089328, 48.87600859381197],
+[2.340575982043720, 48.87497174554318],
+[2.333946682528630, 48.873252746484354],
+[2.332592489355912, 48.86993903518653],
+[2.334437714865551, 48.86573786666654],
+[2.336878400334200, 48.86282967190577],
+[2.342232759368107, 48.85855382636669],
+[2.348147481005499, 48.8569427361595],
+[2.357162571618337, 48.85357547250359],
+[2.361524965507838, 48.85162059096899],
+[2.355050264434754, 48.84595066575015],
+[2.352224728183084, 48.84286683068267],
+[2.351606475302190, 48.84023383632875],
+[2.352542266262702, 48.83593030287887],
+[2.355643643033711, 48.83143363013256],
+[2.357245650758686, 48.82642601087568],
+[2.358551348202204, 48.822182658556564]
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Paris Metro Line 7 - Villejuif Branch",
+"line": "7",
+"color": "#F59FB7",
+"section": "Branch Southwest"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+[2.358551348202204, 48.822182658556564],
+[2.362263387127349, 48.81012995727394],
+[2.363953196602166, 48.80468812091137],
+[2.368269540049694, 48.79648308455054],
+[2.367804105603498, 48.78756279294567]
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Paris Metro Line 7 - Ivry Branch",
+"line": "7",
+"color": "#F59FB7",
+"section": "Branch Southeast"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+[2.358551348202204, 48.822182658556564],
+[2.359705216746020, 48.81922334960906],
+[2.364531953109201, 48.81987622105712],
+[2.369290587346030, 48.82135578381409],
+[2.377267201513739, 48.815930763056315],
+[2.384289600960821, 48.81052080428471]
+]
+}
+},
+{ "type": "Feature", "properties": { "name": "La Courneuve 8 Mai 1945" }, "geometry": { "type": "Point", "coordinates": [2.410598616469426, 48.92078596906289] } },
+{ "type": "Feature", "properties": { "name": "Fort d'Aubervilliers" }, "geometry": { "type": "Point", "coordinates": [2.404409088781864, 48.91494975727623] } },
+{ "type": "Feature", "properties": { "name": "Aubervilliers Pantin - Quatre Chemins" }, "geometry": { "type": "Point", "coordinates": [2.392221222535117, 48.90378388105197] } },
+{ "type": "Feature", "properties": { "name": "Porte de la Villette" }, "geometry": { "type": "Point", "coordinates": [2.385508387668673, 48.89738989158187] } },
+{ "type": "Feature", "properties": { "name": "Riquet" }, "geometry": { "type": "Point", "coordinates": [2.373456887852549, 48.88796756174982] } },
+{ "type": "Feature", "properties": { "name": "Stalingrad" }, "geometry": { "type": "Point", "coordinates": [2.369580855577830, 48.88479825198408] } },
+{ "type": "Feature", "properties": { "name": "Louis Blanc" }, "geometry": { "type": "Point", "coordinates": [2.364993472400181, 48.88094656356074] } },
+{ "type": "Feature", "properties": { "name": "Gare de l'Est" }, "geometry": { "type": "Point", "coordinates": [2.357633204680054, 48.88019548713589] } },
+{ "type": "Feature", "properties": { "name": "Poissonnière" }, "geometry": { "type": "Point", "coordinates": [2.348775557476847, 48.87710018579865] } },
+{ "type": "Feature", "properties": { "name": "Cadet" }, "geometry": { "type": "Point", "coordinates": [2.344572482089328, 48.87600859381197] } },
+{ "type": "Feature", "properties": { "name": "Le Peletier" }, "geometry": { "type": "Point", "coordinates": [2.340575982043720, 48.87497174554318] } },
+{ "type": "Feature", "properties": { "name": "Chaussée d'Antin - La Fayette" }, "geometry": { "type": "Point", "coordinates": [2.333946682528630, 48.873252746484354] } },
+{ "type": "Feature", "properties": { "name": "Opéra" }, "geometry": { "type": "Point", "coordinates": [2.332592489355912, 48.86993903518653] } },
+{ "type": "Feature", "properties": { "name": "Pyramides" }, "geometry": { "type": "Point", "coordinates": [2.334437714865551, 48.86573786666654] } },
+{ "type": "Feature", "properties": { "name": "Palais Royal - Musée du Louvre" }, "geometry": { "type": "Point", "coordinates": [2.336878400334200, 48.86282967190577] } },
+{ "type": "Feature", "properties": { "name": "Pont Neuf" }, "geometry": { "type": "Point", "coordinates": [2.342232759368107, 48.85855382636669] } },
+{ "type": "Feature", "properties": { "name": "Châtelet" }, "geometry": { "type": "Point", "coordinates": [2.348147481005499, 48.8569427361595] } },
+{ "type": "Feature", "properties": { "name": "Pont Marie" }, "geometry": { "type": "Point", "coordinates": [2.357162571618337, 48.85357547250359] } },
+{ "type": "Feature", "properties": { "name": "Sully-Morland" }, "geometry": { "type": "Point", "coordinates": [2.361524965507838, 48.85162059096899] } },
+{ "type": "Feature", "properties": { "name": "Jussieu" }, "geometry": { "type": "Point", "coordinates": [2.355050264434754, 48.84595066575015] } },
+{ "type": "Feature", "properties": { "name": "Place Monge" }, "geometry": { "type": "Point", "coordinates": [2.352224728183084, 48.84286683068267] } },
+{ "type": "Feature", "properties": { "name": "Censier-Daubenton" }, "geometry": { "type": "Point", "coordinates": [2.351606475302190, 48.84023383632875] } },
+{ "type": "Feature", "properties": { "name": "Les Gobelins" }, "geometry": { "type": "Point", "coordinates": [2.352542266262702, 48.83593030287887] } },
+{ "type": "Feature", "properties": { "name": "Place d'Italie" }, "geometry": { "type": "Point", "coordinates": [2.355643643033711, 48.83143363013256] } },
+{ "type": "Feature", "properties": { "name": "Tolbiac" }, "geometry": { "type": "Point", "coordinates": [2.357245650758686, 48.82642601087568] } },
+{ "type": "Feature", "properties": { "name": "Maison Blanche" }, "geometry": { "type": "Point", "coordinates": [2.358551348202204, 48.822182658556564] } },
+{ "type": "Feature", "properties": { "name": "Le Kremlin-Bicêtre" }, "geometry": { "type": "Point", "coordinates": [2.362263387127349, 48.81012995727394] } },
+{ "type": "Feature", "properties": { "name": "Villejuif - Léo Lagrange" }, "geometry": { "type": "Point", "coordinates": [2.363953196602166, 48.80468812091137] } },
+{ "type": "Feature", "properties": { "name": "Villejuif Paul Vaillant-Couturier" }, "geometry": { "type": "Point", "coordinates": [2.368269540049694, 48.79648308455054] } },
+{ "type": "Feature", "properties": { "name": "Villejuif - Louis Aragon" }, "geometry": { "type": "Point", "coordinates": [2.367804105603498, 48.78756279294567] } },
+{ "type": "Feature", "properties": { "name": "Porte d'Italie" }, "geometry": { "type": "Point", "coordinates": [2.359705216746020, 48.81922334960906] } },
+{ "type": "Feature", "properties": { "name": "Porte de Choisy" }, "geometry": { "type": "Point", "coordinates": [2.364531953109201, 48.81987622105712] } },
+{ "type": "Feature", "properties": { "name": "Porte d'Ivry" }, "geometry": { "type": "Point", "coordinates": [2.369290587346030, 48.82135578381409] } },
+{ "type": "Feature", "properties": { "name": "Pierre et Marie Curie" }, "geometry": { "type": "Point", "coordinates": [2.377267201513739, 48.815930763056315] } },
+{ "type": "Feature", "properties": { "name": "Mairie d'Ivry" }, "geometry": { "type": "Point", "coordinates": [2.384289600960821, 48.81052080428471] } }
+]
+}
