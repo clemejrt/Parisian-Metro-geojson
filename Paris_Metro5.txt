@@ -1,0 +1,64 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"name": "Paris Metro Line 5 - Precise Track",
+"line": "5",
+"color": "#F28E2B",
+"terminus_north": "Bobigny Pablo Picasso",
+"terminus_south": "Place d'Italie"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+[2.449189904479336, 48.9063747711693],
+[2.425326890166255, 48.89545467305272],
+[2.412763044547627, 48.893149985759834],
+[2.402352143900473, 48.891228593203465],
+[2.391784450963432, 48.88841747876783],
+[2.385913174273276, 48.886856931501875],
+[2.378716923224646, 48.88497056276621],
+[2.371933128614294, 48.883193321300105],
+[2.367372038565469, 48.88432566304799],
+[2.357633204680054, 48.88019548713589],
+[2.358047505360746, 48.87612635294891],
+[2.361400210432778, 48.87039638922484],
+[2.363740437195039, 48.86782709972698],
+[2.367901414841736, 48.86496414577929],
+[2.371913980100838, 48.85987362347133],
+[2.370209339755372, 48.856140711155],
+[2.368736572626169, 48.85343696230164],
+[2.36591010685298, 48.8464846505702],
+[2.365581702747743, 48.84236008246694],
+[2.360967167698855, 48.83842729696758],
+[2.358566256349467, 48.835152535740804],
+[2.35558027407791, 48.830972672988366]
+]
+}
+},
+{ "type": "Feature", "properties": { "name": "Bobigny Pablo Picasso" }, "geometry": { "type": "Point", "coordinates": [2.449189904479336, 48.9063747711693] } },
+{ "type": "Feature", "properties": { "name": "Bobigny-Pantin - Raymond Queneau" }, "geometry": { "type": "Point", "coordinates": [2.425326890166255, 48.89545467305272] } },
+{ "type": "Feature", "properties": { "name": "Église de Pantin" }, "geometry": { "type": "Point", "coordinates": [2.412763044547627, 48.893149985759834] } },
+{ "type": "Feature", "properties": { "name": "Hoche" }, "geometry": { "type": "Point", "coordinates": [2.402352143900473, 48.891228593203465] } },
+{ "type": "Feature", "properties": { "name": "Porte de Pantin" }, "geometry": { "type": "Point", "coordinates": [2.391784450963432, 48.88841747876783] } },
+{ "type": "Feature", "properties": { "name": "Ourcq" }, "geometry": { "type": "Point", "coordinates": [2.385913174273276, 48.886856931501875] } },
+{ "type": "Feature", "properties": { "name": "Laumière" }, "geometry": { "type": "Point", "coordinates": [2.378716923224646, 48.88497056276621] } },
+{ "type": "Feature", "properties": { "name": "Jaurès" }, "geometry": { "type": "Point", "coordinates": [2.371933128614294, 48.883193321300105] } },
+{ "type": "Feature", "properties": { "name": "Stalingrad" }, "geometry": { "type": "Point", "coordinates": [2.367372038565469, 48.88432566304799] } },
+{ "type": "Feature", "properties": { "name": "Gare du Nord" }, "geometry": { "type": "Point", "coordinates": [2.357633204680054, 48.88019548713589] } },
+{ "type": "Feature", "properties": { "name": "Gare de l'Est" }, "geometry": { "type": "Point", "coordinates": [2.358047505360746, 48.87612635294891] } },
+{ "type": "Feature", "properties": { "name": "Jacques Bonsergent" }, "geometry": { "type": "Point", "coordinates": [2.361400210432778, 48.87039638922484] } },
+{ "type": "Feature", "properties": { "name": "République" }, "geometry": { "type": "Point", "coordinates": [2.363740437195039, 48.86782709972698] } },
+{ "type": "Feature", "properties": { "name": "Oberkampf" }, "geometry": { "type": "Point", "coordinates": [2.367901414841736, 48.86496414577929] } },
+{ "type": "Feature", "properties": { "name": "Richard Lenoir" }, "geometry": { "type": "Point", "coordinates": [2.371913980100838, 48.85987362347133] } },
+{ "type": "Feature", "properties": { "name": "Bréguet-Sabin" }, "geometry": { "type": "Point", "coordinates": [2.370209339755372, 48.856140711155] } },
+{ "type": "Feature", "properties": { "name": "Bastille" }, "geometry": { "type": "Point", "coordinates": [2.368736572626169, 48.85343696230164] } },
+{ "type": "Feature", "properties": { "name": "Quai de la Rapée" }, "geometry": { "type": "Point", "coordinates": [2.36591010685298, 48.8464846505702] } },
+{ "type": "Feature", "properties": { "name": "Gare d'Austerlitz" }, "geometry": { "type": "Point", "coordinates": [2.365581702747743, 48.84236008246694] } },
+{ "type": "Feature", "properties": { "name": "Saint-Marcel" }, "geometry": { "type": "Point", "coordinates": [2.360967167698855, 48.83842729696758] } },
+{ "type": "Feature", "properties": { "name": "Campo Formio" }, "geometry": { "type": "Point", "coordinates": [2.358566256349467, 48.835152535740804] } },
+{ "type": "Feature", "properties": { "name": "Place d'Italie" }, "geometry": { "type": "Point", "coordinates": [2.35558027407791, 48.830972672988366] } }
+]
+}
